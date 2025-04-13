@@ -1,6 +1,56 @@
 # Gbfishmarket
 
-<a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
+this is a full stack application using  nestjs, mysql, nodejs, reactjs.
+
+this is a ongoing leraning repo. name came from a client project who gousted me after i have completed all his task. and the rason he gave me that my previous work was noobish and unprofessional. 
+
+So i have decided to learn some new bleeding edge technology and build a full fledge full stack web application. Thanks(i may loose interest mid way)
+
+
+tasks(phase 1)
+
+        Setting up the NX monorepo structure
+        Setting up NestJS for your backend
+        setting up React frontend
+        Database integration
+        Authentication implementation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ✨ Your new, shiny [Nx workspace](https://nx.dev) is almost ready ✨.
 
